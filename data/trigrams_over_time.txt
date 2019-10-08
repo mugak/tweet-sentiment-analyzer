@@ -1,0 +1,21 @@
+top 10 most frequent trigrams by year
+2010
+[(('ignore', 'prior', 'tweets'), 1), (('please', 'ignore', 'prior'), 1), (('pretending', ':)', 'actually'), 1), (('prior', 'tweets', 'someone'), 1), (('someone', 'pretending', ':)'), 1), (('tweets', 'someone', 'pretending'), 1)]
+2011
+[(('artists', 'peace', 'justice'), 2), (('11', 'need', 'work'), 1), (('140', 'char', 'missives'), 1), (('2012', 'world', 'violence'), 1), (('absolutely', 'bang', 'horse'), 1), (('acting', 'talent', 'sorely'), 1), (('actions', 'created', 'fundamentally'), 1), (('also', 'wrote', 'nice'), 1), (('ambitious', 'space', 'strategy'), 1), (('apj', 'others', 'http://t.co/KYHjsS1k'), 1)]
+2012
+[(('falcon', '9', 'rocket'), 3), (('international', 'space', 'station'), 3), (('central', 'texas', 'test'), 2), (('dragon', 'space', 'station'), 2), (('exciting', 'adventure', 'ever'), 2), (('falcon', '9', 'dragon'), 2), (('global', 'warming', 'real'), 2), (('grasshopper', 'test', 'rocket'), 2), (('rocket', 'hold', 'firing'), 2), (('sec', '0-60', 'mph'), 2)]
+2013
+[(('battery', 'pack', 'swap'), 3), (('cash', 'hover', 'slam'), 3), (('johnny', 'cash', 'hover'), 3), (('200', 'mile', 'range'), 2), (('air', 'force', 'base'), 2), (('allow', 'direct', 'sales'), 2), (('big', 'supercharger', 'announcement'), 2), (('carbon', 'tax', 'would'), 2), (('climate', 'change', 'really'), 2), (('command', 'inhibit', 'override'), 2)]
+2014
+[(('auto', 'dealers', 'trying'), 3), (('9', 'ocean', 'landing'), 2), (('dealers', 'trying', 'pass'), 2), (('dod', 'inspector', 'general'), 2), (('dual', 'motor', 'model'), 2), (('falcon', '9', 'ocean'), 2), (('flight', 'falcon', '9'), 2), (('hypersonic', 'thru', 'subsonic'), 2), (('need', 'make', 'sure'), 2), (('rocket', 'boost', 'stage'), 2)]
+2015
+[(('course', 'still', 'love'), 3), (('deep', 'space', 'mission'), 2), (('dragon', 'abort', 'test'), 2), (('drone', 'spaceport', 'ship'), 2), (('droneship', 'course', 'still'), 2), (('gigafactory', 'pilot', 'plant'), 2), (('gravity', 'null', 'point'), 2), (('mins', 'static', 'fire'), 2), (('regulatory', 'approval', 'hopefully'), 2), (('satellites', 'deployed', 'target'), 2)]
+2016
+[(('model', '3', 'unveil'), 5), (('model', '3', 'order'), 4), (('model', '3', 'orders'), 3), (('paid', '55', 'hr'), 3), (('ship', 'landings', 'needed'), 3), (('tesla', 'solarcity', 'merger'), 3), (('3', 'unveil', 'part'), 2), (("can't", 'wait', 'see'), 2), (('cover', 'whole', 'country'), 2), (('deaths', 'per', 'billion'), 2)]
+2017
+[(('next', 'gen', 'roadster'), 3), (('0.8', 'miles', 'long'), 2), (('250', 'kwh', 'pack'), 2), (('animation', 'falcon', 'heavy'), 2), (('autopilot', 'hw2', 'rolling'), 2), (('big', 'car', 'companies'), 2), (('built', 'since', 'oct'), 2), (('camera', 'pitch', 'angle'), 2), (('cars', 'built', 'since'), 2), (('core', 'launch', 'fh'), 2)]
+2018
+[(('♥', '♥', '♥'), 13), (('model', '3', 'performance'), 6), (('🖤', '🖤', '🖤'), 4), (('dual', 'motor', 'all-wheel'), 3), (('free', 'lifetime', 'supercharging'), 3), (('motor', 'all-wheel', 'drive'), 3), (('performance', 'model', '3'), 3), (('welcome', 'sorry', 'delay'), 3), (('2nd', '3rd', 'volumes'), 2), (('5k', 'week', 'model'), 2)]
+2019
+[(('full', 'self-driving', 'option'), 5), (('tesla', 'full', 'self-driving'), 4), (('autopilot', 'full', 'self-driving'), 3), (('♥', '♥', '♥'), 3), (('3', '6', 'months'), 2), (('35k', 'model', '3'), 2), (('6', 'launches', '60'), 2), (('60', 'starlink', 'satellites'), 2), (('7', 'days', 'full'), 2), (('bought', 'enhanced', 'autopilot'), 2)]

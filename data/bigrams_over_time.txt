@@ -1,0 +1,21 @@
+top 10 most frequent bigrams by year
+2010
+[((':)', 'actually'), 1), (('ignore', 'prior'), 1), (('please', 'ignore'), 1), (('pretending', ':)'), 1), (('prior', 'tweets'), 1), (('someone', 'pretending'), 1), (('tweets', 'someone'), 1)]
+2011
+[(('artists', 'peace'), 2), (('make', 'u'), 2), (('peace', 'justice'), 2), (('sam', 'harris'), 2), (('world', 'violence'), 2), (('11', 'need'), 1), (('140', 'char'), 1), (('2012', 'world'), 1), ((':)', 'http://t.co/rBQXJ9IT'), 1), (('absolutely', 'bang'), 1)]
+2012
+[(('space', 'station'), 13), (('model', 'x'), 9), (('falcon', '9'), 6), (('tesla', 'model'), 6), (('first', 'time'), 4), (('400', 'miles'), 3), (('9', 'rocket'), 3), (('cape', 'canaveral'), 3), (('dragon', 'spaceship'), 3), (('international', 'space'), 3)]
+2013
+[(('climate', 'change'), 10), (('falcon', '9'), 9), (('tesla', 'model'), 8), (('direct', 'sales'), 6), (('battery', 'pack'), 5), (('next', 'week'), 5), (('pack', 'swap'), 5), (('upper', 'stage'), 5), (('auto', 'dealers'), 4), (('carbon', 'tax'), 4)]
+2014
+[(('falcon', '9'), 12), (('auto', 'dealers'), 4), (('grid', 'fins'), 4), (('make', 'sure'), 4), (('coming', 'soon'), 3), (('dealers', 'trying'), 3), (('landing', 'legs'), 3), (('leg', 'deploy'), 3), (('rocket', 'booster'), 3), (('space', 'station'), 3)]
+2015
+[(('cape', 'canaveral'), 9), (('rocket', 'landing'), 8), (('P8', '5d'), 5), (('drone', 'ship'), 5), (('falcon', '9'), 5), (('static', 'fire'), 5), (('upper', 'stage'), 5), (('hydraulic', 'fluid'), 4), (('model', 'x'), 4), (('space', 'station'), 4)]
+2016
+[(('model', '3'), 23), (('model', 'x'), 10), (('looks', 'like'), 9), (('next', 'week'), 7), (('tesla', 'solarcity'), 7), (('california', 'time'), 6), (('falcon', '9'), 6), (('part', '2'), 6), (('3', 'unveil'), 5), (('solar', 'roof'), 5)]
+2017
+[(('model', '3'), 29), (('falcon', 'heavy'), 15), (('coming', 'soon'), 14), (('boring', 'company'), 12), (('falcon', '9'), 10), (('good', 'point'), 9), (('model', 'x'), 8), (('next', 'year'), 8), (('next', 'month'), 7), (('next', 'week'), 7)]
+2018
+[(('model', '3'), 37), (('coming', 'soon'), 15), (('♥', '♥'), 14), (('boring', 'company'), 13), (('falcon', 'heavy'), 10), (('dual', 'motor'), 9), (('🖤', '🖤'), 9), (('tesla', 'owners'), 8), (('falcon', '9'), 7), (('model', 'x'), 7)]
+2019
+[(('model', '3'), 21), (('full', 'self-driving'), 13), (('coming', 'soon'), 10), (('sentry', 'mode'), 7), (('crew', 'dragon'), 6), (('next', 'week'), 6), (('tesla', 'cars'), 6), (('♥', '♥'), 6), (('enhanced', 'autopilot'), 5), (('good', 'idea'), 5)]

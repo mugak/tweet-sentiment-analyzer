@@ -1,0 +1,36 @@
+total number of positive tweets: 2774
+total number of negative tweets: 845
+total number of neutral tweets: 2360
+number of positive_tweets by year:
+2010: 1
+2011: 27
+2012: 144
+2013: 223
+2014: 91
+2015: 161
+2016: 370
+2017: 516
+2018: 723
+2019: 518
+number of negative_tweets by year:
+2010: 0
+2011: 5
+2012: 41
+2013: 71
+2014: 21
+2015: 48
+2016: 111
+2017: 196
+2018: 213
+2019: 139
+number of neutral_tweets by year:
+2010: 0
+2011: 10
+2012: 85
+2013: 128
+2014: 76
+2015: 119
+2016: 272
+2017: 425
+2018: 643
+2019: 602

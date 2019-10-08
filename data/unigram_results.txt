@@ -1,0 +1,7 @@
+top 20 most frequent unigrams
+positive_tweets
+[('tesla', 269), ('yes', 266), ('good', 231), ('like', 188), ('great', 147), ('model', 136), ('thanks', 116), ('yeah', 101), ('car', 98), ('love', 98), ('would', 94), ('true', 89), ('3', 85), (':)', 81), ('sure', 79), ('much', 74), ('one', 72), ('better', 71), ('cars', 68), ('people', 67)]
+negative_tweets
+[('tesla', 85), ('boring', 50), ('would', 43), ('rocket', 42), ('model', 36), ('high', 34), ('company', 32), ('right', 27), ('people', 27), ('first', 26), ('fire', 26), ('car', 26), ('problem', 25), ('launch', 24), ('make', 23), ('long', 23), ('sorry', 22), ('falcon', 21), ('bad', 21), ('maybe', 21)]
+neutral_tweets
+[('tesla', 176), ('model', 118), ('3', 89), ('next', 70), ('rocket', 70), ('exactly', 63), ('falcon', 63), ('time', 62), ('launch', 61), ('first', 61), ('soon', 58), ('spacex', 54), ('coming', 53), ('new', 48), ('dragon', 48), ('one', 44), ('car', 44), ('cars', 42), ('right', 41), ('2', 38)]

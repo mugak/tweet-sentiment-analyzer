@@ -1,0 +1,7 @@
+top 10 most frequent bigrams
+positive_tweets
+[(('model', '3'), 49), (('model', 'x'), 25), (('good', 'point'), 22), (('looks', 'like'), 22), (('coming', 'soon'), 18), (('falcon', '9'), 17), (('♥', '♥'), 16), (('sounds', 'like'), 15), (('good', 'idea'), 14), (('looks', 'good'), 14)]
+negative_tweets
+[(('boring', 'company'), 22), (('climate', 'change'), 10), (('falcon', '9'), 10), (('model', '3'), 9), (('static', 'fire'), 9), (('upper', 'stage'), 7), (('boring', 'machine'), 6), (('high', 'pressure'), 6), (('model', 'x'), 6), (('auto', 'dealers'), 5)]
+neutral_tweets
+[(('model', '3'), 56), (('coming', 'soon'), 30), (('falcon', '9'), 30), (('falcon', 'heavy'), 20), (('space', 'station'), 18), (('next', 'week'), 16), (('cape', 'canaveral'), 14), (('model', 'x'), 12), (('california', 'time'), 10), (('crew', 'dragon'), 10)]

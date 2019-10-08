@@ -1,0 +1,21 @@
+top 20 most frequent unigrams by year
+2010
+[('please', 1), ('ignore', 1), ('prior', 1), ('tweets', 1), ('someone', 1), ('pretending', 1), (':)', 1), ('actually', 1)]
+2011
+[('u', 5), ('really', 5), ('one', 4), ('help', 3), ('know', 3), ('night', 3), (':)', 3), ('many', 3), ('good', 3), ('great', 3), ('rocket', 3), ('horse', 3), ('lot', 3), ('others', 2), ("i'm", 2), ('art', 2), ('sound', 2), ('returned', 2), ('haiti', 2), ('recommend', 2)]
+2012
+[('model', 31), ('tesla', 28), ('rocket', 23), ('dragon', 20), ('space', 19), ('first', 15), ('spacex', 14), ('good', 14), ('station', 13), ('people', 13), ('falcon', 12), ('time', 12), ('mars', 10), ('would', 10), ('x', 10), ('great', 10), ('launch', 10), ('like', 10), ('solar', 9), ('test', 9)]
+2013
+[('tesla', 68), ('model', 35), ('rocket', 34), ('good', 32), ('launch', 29), ('w', 27), ('like', 23), ('time', 18), ('thanks', 17), ('first', 15), ('car', 15), ('would', 15), ('change', 14), ('next', 14), ('flight', 13), (':)', 13), ('cool', 13), ('people', 13), ('yes', 13), ('test', 12)]
+2014
+[('tesla', 29), ('falcon', 17), ('model', 17), ('flight', 14), ('landing', 13), ('9', 12), ('rocket', 11), ('dragon', 11), ('launch', 11), ('car', 10), ('like', 9), ('good', 9), ('new', 8), ('also', 8), ('w', 7), ('need', 7), ('soon', 7), ('space', 6), (':)', 6), ('la', 6)]
+2015
+[('tesla', 26), ('rocket', 25), ('good', 23), ('landing', 22), ('launch', 20), ('model', 17), ('cars', 15), ('next', 14), ('time', 14), ('thanks', 14), ('new', 13), ('falcon', 13), ('2', 12), ('space', 12), ('like', 11), ('high', 11), ('still', 11), ('dragon', 11), ('test', 11), ('work', 10)]
+2016
+[('tesla', 80), ('yes', 49), ('model', 46), ('3', 37), ('good', 37), ('like', 35), ('autopilot', 30), ('would', 24), ('thanks', 24), ('next', 22), ('car', 22), ('x', 21), ('great', 21), ('one', 20), ('rocket', 20), ('also', 20), ('need', 19), ('time', 19), (':)', 18), ('maybe', 18)]
+2017
+[('tesla', 67), ('model', 56), ('yes', 54), ('good', 48), ('first', 41), ('like', 40), ('3', 39), ('next', 38), ('yeah', 38), ('one', 35), ('boring', 33), ('right', 33), ('car', 33), ('would', 31), ('spacex', 30), ('launch', 30), ('soon', 29), ('falcon', 28), ('rocket', 28), ('people', 26)]
+2018
+[('tesla', 135), ('yes', 71), ('3', 54), ('good', 53), ('model', 51), ('like', 50), ('car', 45), ('great', 38), ('would', 37), ('love', 36), ('even', 34), ('soon', 33), ('thanks', 32), ('people', 31), ('yeah', 31), ('make', 31), ('work', 30), ('one', 30), ('true', 28), ('boring', 27)]
+2019
+[('tesla', 96), ('yes', 78), ('3', 39), ('model', 35), ('exactly', 34), ('like', 32), ('great', 32), ('cars', 31), ('good', 28), ('true', 28), ('car', 27), ('spacex', 27), ('would', 26), ('yeah', 24), ('coming', 24), ('also', 23), ('starship', 23), ('one', 23), ('1', 23), ('full', 22)]

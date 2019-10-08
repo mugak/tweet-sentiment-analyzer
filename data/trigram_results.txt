@@ -1,0 +1,7 @@
+top 10 most frequent trigrams
+positive_tweets
+[(('♥', '♥', '♥'), 14), (('course', 'still', 'love'), 5), (('need', 'make', 'sure'), 5), (('thank', 'behalf', 'spacex'), 4), (('altitude', 'wind', 'shear'), 3), (('droneship', 'course', 'still'), 3), (('fate', 'loves', 'irony'), 3), (('free', 'lifetime', 'supercharging'), 3), (('high', 'altitude', 'wind'), 3), (('model', '3', 'performance'), 3)]
+negative_tweets
+[(('boring', 'company', 'tunnel'), 3), (('cash', 'hover', 'slam'), 3), (('could', 'possibly', 'go'), 3), (('high', 'pressure', 'air'), 3), (('johnny', 'cash', 'hover'), 3), (('possibly', 'go', 'wrong'), 3), (('sec', '0-60', 'mph'), 3), (('beyond', 'ludicrous', 'plaid'), 2), (('cannot', 'solving', 'one'), 2), (('catastrophic', 'climate', 'change'), 2)]
+neutral_tweets
+[(('falcon', '9', 'rocket'), 6), (('model', '3', 'order'), 5), (('model', '3', 'unveil'), 4), (('🖤', '🖤', '🖤'), 4), (('2', '3', 'weeks'), 3), (('air', 'force', 'base'), 3), (('autopilot', 'full', 'self-driving'), 3), (('battery', 'pack', 'swap'), 3), (('dual', 'motor', 'model'), 3), (('full', 'self-driving', 'option'), 3)]
